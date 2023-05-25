@@ -2,8 +2,9 @@
 Project # 2 - ETL Group Project# Project 2! (Crowdfunding_ETL)
 
 <p align="center">
-<img src="image/pic1.png" alt="crowdfunding graphic" width="500" height="300">
+<img src="image/pic1.jpg" alt="crowdfunding graphic" width="500" height="300">
 </p>
+
 ---
 ## Table of Contents
 - [Background](#background)
