@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-Project # 2 - ETL Group Project# Project 2! (Crowdfunding_ETL)
+Project # 2 - ETL Group Project
 
 <p align="center">
 <img src="image/pic1.jpg" alt="crowdfunding graphic" width="500" height="300">
