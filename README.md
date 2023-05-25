@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 Project # 2 - ETL Group Project# Project 2! (Crowdfunding_ETL)
-![crowdfunding graphic](images/pic1.jpg)
+![crowdfunding graphic](image/pic1.jpg)
 ---
 ## Table of Contents
 - [Background](#background)
@@ -76,5 +76,5 @@ browsing with Splinter and HTML parsing with Beautiful Soup.
 
 
 <p align="center">
-<img src="images/pic2.png" alt="crowdfunding graphic" width="500" height="300">
+<img src="image/pic2.png" alt="crowdfunding graphic" width="500" height="300">
 </p>
