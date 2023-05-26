@@ -12,6 +12,17 @@ CREATE TABLE subcategory(
 );
 SELECT * FROM subcategory;
 
+
+DROP TABLE contacts;
+CREATE TABLE contacts(
+	contact_id INT NOT NULL PRIMARY KEY,
+	first_name VARCHAR NOT NULL,
+	last_name VARCHAR NOT NULL,
+	email VARCHAR NOT NULL
+);
+SELECT * FROM contacts;
+
+-- create campaign table last to establish foreign key connections
 DROP TABLE campaign;
 CREATE TABLE campaign(
 	cf_id INT NOT NULL PRIMARY KEY,
@@ -33,15 +44,3 @@ CREATE TABLE campaign(
 	FOREIGN KEY(contact_id) REFERENCES contacts(contact_id)
 );
 SELECT * FROM campaign;
-
-
-DROP TABLE contacts;
-CREATE TABLE contacts(
-	contact_id INT NOT NULL PRIMARY KEY,
-	first_name VARCHAR NOT NULL,
-	last_name VARCHAR NOT NULL,
-	email VARCHAR NOT NULL
-
-);
-SELECT * FROM contacts;
-
