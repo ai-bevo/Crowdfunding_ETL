@@ -39,7 +39,7 @@ The following findings and conclusions from the analysis are as follows:
  1.  ### Outcome of Campaigns
       Looking at the overall data set, the majority of campaigns were successful (56.5%), followed by failed campaigns (36.4%), and canceled campaigns (5.7%). At basic level this data is encouraging to future campaings to see that the majority of campaigns were successful. Further analysis will show which categories are most successful and which categories are least successful.
 <p align="center">
-<img src="image/Outcome_of_Campaigns_pie.png" alt="Outcome of Campaigns" width="640" height="480">
+<img src="image/Outcome_of_Campaigns_pie.png" alt="Outcome of Campaigns" width="480" height="480">
 </p>
 
  2. ### Average Goal Amount for Campaigns
