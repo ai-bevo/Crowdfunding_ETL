@@ -57,7 +57,7 @@ The following findings and conclusions from the analysis are as follows:
 <img src="image/Percentage_Successful.png" alt="Average Goal" width="640" height="480">
 </p>
 
-      The following chart confirms that the a very high average goal amount negatively impacts the chances for a successful campaign. The 'Games' category, on average, has the highest goal amount of all categories, at $59,542. While the average goal amount for the 'Journalism' category is the lowest of all categories, at $6,425.
+   The following chart confirms that the a very high average goal amount negatively impacts the chances for a successful campaign. The 'Games' category, on average, has the highest goal amount of all categories, at $59,542. While the average goal amount for the 'Journalism' category is the lowest of all categories, at $6,425.
 
 <p align="center">
 <img src="image/avg_goal_per_category.png" alt="Average Goal" width="640" height="480">
