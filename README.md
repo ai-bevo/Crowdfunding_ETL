@@ -116,13 +116,25 @@ Extracting and Transforming
 Load
 1. Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBD
 2. Use the information from the ERD to create a table schema for each CSV file.
-    -  Note: Remember to specify the data types, primary keys, foreign keys, and other constraints.
+
+<p align="center">
+<img src="image/crowdfunding_db_ERD.png" alt="Crowdfunding ERD" width="593" height="668">
+</p>
+
 3. Save the database schema as a Postgres file named crowdfunding_db_schema.sql, and save it to your GitHub repository.
 4. Create a new Postgres database, named crowdfunding_db.
 5. Using the database schema, create the tables in the correct order to handle the foreign keys.
 6. Verify the table creation by running a SELECT statement for each table.
-7. Import each CSV file into its corresponding SQL table.
+
+<p align="center">
+<img src="image/pgAdmin_query_campaign_table.png" alt="pgAdmin Query - Campaign Table" width="765" height="202">
+</p>
+
 8. Import each CSV file into its corresponding SQL table.
+
+<p align="center">
+<img src="image/pgAdmin_importing_csv_data.png" alt="Import CSV Data" width="732" height="152">
+</p>
 
 <p align="center">
 <img src="image/pic2.png" alt="crowdfunding graphic" width="500" height="300">
